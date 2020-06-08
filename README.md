@@ -7,13 +7,10 @@ Client-Server architecture for two player battleship game
 - 10 x 10 grid battle field
 - Human player can place ships manually
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+## Build && Run
+I have added two build.xml files for client and server. 
+Go to the corresponding directories and just type command ```$ ant``` on the terminal and run the build.xml files.
+They will be built automatically and run :+1:
 
 ## Interfaces
 ### Server
