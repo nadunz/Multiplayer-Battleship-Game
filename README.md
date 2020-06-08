@@ -8,8 +8,8 @@ Client-Server architecture for two player battleship game
 - Human player can place ships manually
 
 ## Build && Run
-I have added two @build.xml files for client and server.
-Go to the corresponding directories and just type command ```$ ant``` on the terminal and run the @build.xml files.
+I have added two **build.xml** files for client and server.
+Go to the corresponding directories and just type command ```$ ant``` on the terminal and run the **build.xml** files.
 They will be built automatically and run :+1: :white_check_mark:
 
 ## Interfaces
